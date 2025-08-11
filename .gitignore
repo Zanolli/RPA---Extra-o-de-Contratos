@@ -1,0 +1,10 @@
+# Arquivos de ambiente
+.env
+*.env
+
+# Diretórios de cache Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.pyw
